@@ -92,7 +92,8 @@ body {
         @apply relative z-10 min-h-dvh w-full border border-transparent;
 
         h1 {
-            @apply md:mt-32 mt-40 text-8xl md:text-[20vw] leading-none text-center font-modern-negra;
+            /* @apply md:mt-32 mt-40 text-8xl md:text-[20vw] leading-none text-center font-modern-negra; */
+            @apply md:mt-32 mt-40 text-6xl md:text-[14vw] leading-none text-center font-modern-negra;
         }
 
         .left-leaf {
@@ -244,7 +245,7 @@ body {
         @apply flex-center flex-col min-h-dvh p-5 mt-20 relative radial-gradient;
 
         h2 {
-            @apply relative md:text-[20vw] text-8xl text-nowrap leading-none font-modern-negra text-center text-[#505050] mb-8;
+            @apply relative md:text-[12vw] text-8xl text-nowrap leading-none font-modern-negra text-center text-[#505050] mb-8;
         }
 
         .content {
