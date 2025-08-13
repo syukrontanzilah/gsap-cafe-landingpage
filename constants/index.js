@@ -143,21 +143,21 @@ const allCocktails = [
     description:
       "Perpaduan tepung beras, santan, dan gula aren asli, disajikan dengan es serut yang menyegarkan. Cocok untuk pelepas dahaga di siang yang terik.",
   },
-  {
+   {
     id: 2,
-    name: "Es Dawet Ayu",
-    image: "/images/drink2.png",
-    title: "Manis Lembut dari Jawa Tengah",
-    description:
-      "Dawet kenyal berpadu santan gurih dan gula merah cair. Racikan khas Banjarnegara yang selalu bikin rindu kampung halaman.",
-  },
-  {
-    id: 3,
     name: "Kopi Tubruk",
     image: "/images/drink3.png",
     title: "Pahit Nikmat Penuh Aroma",
     description:
       "Bubuk kopi pilihan diseduh langsung dengan air panas tanpa disaring. Cita rasa khas Jawa yang kuat dan menghangatkan.",
+  },
+  {
+    id: 3,
+    name: "Es Dawet Ayu",
+    image: "/images/drink2.png",
+    title: "Manis Lembut dari Jawa Tengah",
+    description:
+      "Dawet kenyal berpadu santan gurih dan gula merah cair. Racikan khas Banjarnegara yang selalu bikin rindu kampung halaman.",
   },
   {
     id: 4,
